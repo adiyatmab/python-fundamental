@@ -80,7 +80,7 @@ Ini adalah tracker untuk memantau progres belajar saya.
 -   [ ] **3. Struktur Data**
     -   [x] Manipulasi String (Dasar)
     -   [x] List
-    -   [ ] Tuple
+    -   [x] Tuple
     -   [ ] Dictionary
 -   [ ] **4. Fungsi & Modularitas**
 -   [ ] **5. Penanganan File**
