@@ -1,0 +1,5 @@
+data_mahasiswa = ("133190050","Buyung","3.36")
+print("-- Data Mahasiswa --")
+print("NIM     :", data_mahasiswa[0])
+print("Nama    :", data_mahasiswa[1])
+print("IPK     :", data_mahasiswa[2])
