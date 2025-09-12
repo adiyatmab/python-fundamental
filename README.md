@@ -79,7 +79,7 @@ Ini adalah tracker untuk memantau progres belajar saya.
     -   [ ] Perulangan (for, while)
 -   [ ] **3. Struktur Data**
     -   [x] Manipulasi String (Dasar)
-    -   [ ] List
+    -   [x] List
     -   [ ] Tuple
     -   [ ] Dictionary
 -   [ ] **4. Fungsi & Modularitas**
