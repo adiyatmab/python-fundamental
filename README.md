@@ -72,10 +72,10 @@ Ini adalah tracker untuk memantau progres belajar saya.
 -   [x] **1. Dasar-Dasar Python**
     -   [x] Variabel & Tipe Data
     -   [x] Operator Aritmatika
-    -   [ ] Operator Perbandingan & Logika
+    -   [x] Operator Perbandingan & Logika
     -   [ ] Input & Output
 -   [ ] **2. Struktur Kontrol**
-    -   [ ] Kondisional (if-elif-else)
+    -   [x] Kondisional (if-elif-else)
     -   [ ] Perulangan (for, while)
 -   [ ] **3. Struktur Data**
     -   [x] Manipulasi String (Dasar)
