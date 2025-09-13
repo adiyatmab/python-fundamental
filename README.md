@@ -84,8 +84,9 @@ Ini adalah tracker untuk memantau progres belajar saya.
     -   [x] Dictionary
 -   [x] **4. Fungsi & Modularitas**
     - [x] Membuat Fungsi
-    - [x] Argumen& Parameter
+    - [x] Argumen & Parameter
     - [x] Return Value
+    - [x] Modules & Packages 
 -   [x] **5. Penanganan File**
     - [x] Membaca File Teks (.txt)
     - [x] Menulis ke File Teks (.txt)
