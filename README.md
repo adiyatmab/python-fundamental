@@ -76,7 +76,7 @@ Ini adalah tracker untuk memantau progres belajar saya.
     -   [x] Input & Output
 -   [ ] **2. Struktur Kontrol**
     -   [x] Kondisional (if-elif-else)
-    -   [ ] Perulangan (for, while)
+    -   [x] Perulangan (for, while)
 -   [x] **3. Struktur Data**
     -   [x] Manipulasi String (Dasar)
     -   [x] List
