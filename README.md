@@ -86,7 +86,9 @@ Ini adalah tracker untuk memantau progres belajar saya.
     - [x] Membuat Fungsi
     - [x] Argumen& Parameter
     - [x] Return Value
--   [ ] **5. Penanganan File**
+-   [x] **5. Penanganan File**
+    - [x] Membaca File Teks (.txt)
+    - [x] Menulis ke File Teks (.txt)
 -   [ ] **6. Pengenalan OOP**
 
 ---
