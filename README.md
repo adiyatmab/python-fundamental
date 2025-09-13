@@ -81,7 +81,7 @@ Ini adalah tracker untuk memantau progres belajar saya.
     -   [x] Manipulasi String (Dasar)
     -   [x] List
     -   [x] Tuple
-    -   [ ] Dictionary
+    -   [x] Dictionary
 -   [ ] **4. Fungsi & Modularitas**
 -   [ ] **5. Penanganan File**
 -   [ ] **6. Pengenalan OOP**
