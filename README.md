@@ -74,7 +74,7 @@ Ini adalah tracker untuk memantau progres belajar saya.
     -   [x] Operator Aritmatika
     -   [x] Operator Perbandingan & Logika
     -   [x] Input & Output
--   [ ] **2. Struktur Kontrol**
+-   [x] **2. Struktur Kontrol**
     -   [x] Kondisional (if-elif-else)
     -   [x] Perulangan (for, while)
 -   [x] **3. Struktur Data**
@@ -89,6 +89,7 @@ Ini adalah tracker untuk memantau progres belajar saya.
 -   [x] **5. Penanganan File**
     - [x] Membaca File Teks (.txt)
     - [x] Menulis ke File Teks (.txt)
+    - [x] Dasar Penanganan Error (try...except)
 -   [x] **6. Pengenalan OOP**
     - [x] Inheritance
     - [x] Attributes & Methods
