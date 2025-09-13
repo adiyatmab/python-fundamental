@@ -82,7 +82,10 @@ Ini adalah tracker untuk memantau progres belajar saya.
     -   [x] List
     -   [x] Tuple
     -   [x] Dictionary
--   [ ] **4. Fungsi & Modularitas**
+-   [x] **4. Fungsi & Modularitas**
+    - [x] Membuat Fungsi
+    - [x] Argumen& Parameter
+    - [x] Return Value
 -   [ ] **5. Penanganan File**
 -   [ ] **6. Pengenalan OOP**
 
