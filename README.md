@@ -83,6 +83,7 @@ Ini adalah tracker untuk memantau progres belajar saya.
     -   [x] List
     -   [x] Tuple
     -   [x] Dictionary
+    -   [x] Set
 -   [x] **4. Fungsi & Modularitas**
     - [x] Membuat Fungsi
     - [x] Argumen & Parameter
