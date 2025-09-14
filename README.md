@@ -88,7 +88,8 @@ Ini adalah tracker untuk memantau progres belajar saya.
     - [x] Membuat Fungsi
     - [x] Argumen & Parameter
     - [x] Return Value
-    - [x] Modules & Packages 
+    - [x] Modules & Packages
+    - [x] Scope Variabel 
 -   [x] **5. Penanganan File**
     - [x] Membaca File Teks (.txt)
     - [x] Menulis ke File Teks (.txt)
