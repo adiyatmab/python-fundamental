@@ -94,6 +94,7 @@ Ini adalah tracker untuk memantau progres belajar saya.
     - [x] Membaca File Teks (.txt)
     - [x] Menulis ke File Teks (.txt)
     - [x] Dasar Penanganan Error (try...except)
+    - [x] Bekerja dengan CSV
 -   [x] **6. Pengenalan OOP**
     - [x] Inheritance
     - [x] Attributes & Methods
